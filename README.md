@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, I’m Arvind
 
-<!--
-**arvind-ahluwalia/Arvind-Ahluwalia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I design and operationalize enterprise AI systems that balance autonomy, risk, explainability, and measurable outcomes.
 
-Here are some ideas to get you started:
+### What I work on
+- AI-powered decision systems in real enterprise workflows
+- Governance-by-design: explainability, auditability, human-in-the-loop
+- Discovery → operating model → production adoption
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Selected outcomes
+- 28% attach-rate lift via governed conversational AI (Salesforce)
+- ~3% churn reduction through AI-driven renewal intelligence (Palo Alto Networks)
+- 30% on-time arrival improvement via ML-based field service optimization
+
+### Current focus
+- Agentic AI with decision boundaries
+- Trust-first AI operating models
+- Enterprise adoption & value realization
+
+📫 [LinkedIn](https://www.linkedin.com/in/ahluwaliaarvind/) | 🌐 ProdWorks.io
